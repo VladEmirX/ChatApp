@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/ServerStatusApp.dir/ServerStatusApp/main.cpp.obj: dyndep
+
+build CMakeFiles/ServerStatusApp.dir/ServerStatusApp/QueryPipe.cpp.obj: dyndep
+

@@ -1,0 +1,6 @@
+D:/spaceless/practice/Common/cmake-build-debug-mingw-clang/CMakeFiles/Common.dir
+D:/spaceless/practice/Common/cmake-build-debug-mingw-clang/CMakeFiles/ChatServerApp.dir
+D:/spaceless/practice/Common/cmake-build-debug-mingw-clang/CMakeFiles/ChatClientApp.dir
+D:/spaceless/practice/Common/cmake-build-debug-mingw-clang/CMakeFiles/ServerStatusApp.dir
+D:/spaceless/practice/Common/cmake-build-debug-mingw-clang/CMakeFiles/edit_cache.dir
+D:/spaceless/practice/Common/cmake-build-debug-mingw-clang/CMakeFiles/rebuild_cache.dir

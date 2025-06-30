@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles\\ServerStatusApp.dir\\ServerStatusApp\\QueryPipe.cpp.obj"
+    }
+  ],
+  "version": 1
+}

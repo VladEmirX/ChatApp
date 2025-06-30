@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Common",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ChatClientApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ChatClientApp-Debug-397e574f3a80b2bef89f.json",
+					"name" : "ChatClientApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ChatServerApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ChatServerApp-Debug-dbb9f66d39e3d504ad8e.json",
+					"name" : "ChatServerApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Common::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Common-Debug-174c5f5eb3f4b9cb90c6.json",
+					"name" : "Common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ServerStatusApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ServerStatusApp-Debug-04236262be641ae46a78.json",
+					"name" : "ServerStatusApp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/spaceless/practice/Common/cmake-build-debug-mingw-clang",
+		"source" : "D:/spaceless/practice/Common"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

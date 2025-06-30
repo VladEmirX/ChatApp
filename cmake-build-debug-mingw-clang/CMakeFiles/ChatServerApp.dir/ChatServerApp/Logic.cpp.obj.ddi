@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles\\ChatServerApp.dir\\ChatServerApp\\Logic.cpp.obj"
+    }
+  ],
+  "version": 1
+}

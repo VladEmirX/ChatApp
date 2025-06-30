@@ -1,0 +1,4 @@
+"D:\_programs\CLion 2024.2.0.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/_programs/CLion 2024.2.0.1/bin/ninja/win/x64/ninja.exe" -DCMAKE_C_COMPILER=clang.exe -DCMAKE_CXX_COMPILER=clang++.exe -G Ninja -S D:\spaceless\practice\Common -B D:\spaceless\practice\Common\cmake-build-debug-mingw-clang
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/spaceless/practice/Common/cmake-build-debug-mingw-clang

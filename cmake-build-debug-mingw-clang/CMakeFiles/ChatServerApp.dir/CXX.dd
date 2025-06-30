@@ -1,0 +1,11 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/ChatServerApp.dir/ChatServerApp/ClientLogic.cpp.obj: dyndep
+
+build CMakeFiles/ChatServerApp.dir/ChatServerApp/Logic.cpp.obj: dyndep
+
+build CMakeFiles/ChatServerApp.dir/ChatServerApp/main.cpp.obj: dyndep
+
+build CMakeFiles/ChatServerApp.dir/ChatServerApp/SocketLogic.cpp.obj: dyndep
+
+build CMakeFiles/ChatServerApp.dir/ChatServerApp/PipeLogic.cpp.obj: dyndep
+

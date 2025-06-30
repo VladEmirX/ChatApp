@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/spaceless/practice/Common/cmake-build-debug-mingw-clang",
+	"dir-cur-src" : "D:/spaceless/practice/Common",
+	"dir-top-bld" : "D:/spaceless/practice/Common/cmake-build-debug-mingw-clang",
+	"dir-top-src" : "D:/spaceless/practice/Common",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"D:\\spaceless\\practice\\Common\\Common"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/spaceless/practice/Common/cmake-build-debug-mingw-clang/CMakeFiles/ChatClientApp.dir"
+}
