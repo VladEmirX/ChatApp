@@ -1,9 +1,0 @@
-{
-  "revision": 0,
-  "rules": [
-    {
-      "primary-output": "CMakeFiles\\ServerStatusApp.dir\\ServerStatusApp\\main.cpp.obj"
-    }
-  ],
-  "version": 1
-}

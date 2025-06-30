@@ -1,9 +1,0 @@
-{
-  "revision": 0,
-  "rules": [
-    {
-      "primary-output": "CMakeFiles\\Common.dir\\Common\\ServerSocket.cpp.obj"
-    }
-  ],
-  "version": 1
-}

@@ -1,9 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/Common.dir/Common/AutoSocket.cpp.obj: dyndep
-
-build CMakeFiles/Common.dir/Common/ServerSocket.cpp.obj: dyndep
-
-build CMakeFiles/Common.dir/Common/Logger.cpp.obj: dyndep
-
-build CMakeFiles/Common.dir/Common/StringConvert.cpp.obj: dyndep
-
